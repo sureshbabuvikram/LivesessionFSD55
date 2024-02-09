@@ -12,7 +12,7 @@ const App = () => {
     {id:1,name:'anbu', designation:'fsd'},
     {id:2,name:'chandru', designation:'Manager'},
     {id:3,name:'gopi', designation:'fsd'},
-    {id:4,name:'renu', designation:'FSD'},
+    // {id:4,name:'renu', designation:'FSD'},
   ]
   return (
     <div>      
